@@ -5,6 +5,7 @@ import Header from "./components/Header";
 import About from "./components/About";
 import Footer from "./components/Footer";
 import { SkeletonGrid } from "./components/ui/skeleton";
+import ReactGA from "react-ga4";
 import "./index.css";
 const Experience = React.lazy(() => import("./components/Experience"));
 const Projects = React.lazy(() => import("./components/Projects"));
@@ -13,7 +14,9 @@ const Education = React.lazy(() => import("./components/Education"));
 const Certifications = React.lazy(() => import("./components/Certifications"));
 const Contact = React.lazy(() => import("./components/Contact"));
 
-function App() {
+const App = () => {
+  ReactGA.initialize("G-RC8CX116C5");
+  ReactGA.send("pageview");
   return (
     <div className="min-h-screen bg-background text-foreground">
       <Helmet>
@@ -111,6 +114,6 @@ function App() {
       <Footer />
     </div>
   );
-}
+};
 
 export default App;

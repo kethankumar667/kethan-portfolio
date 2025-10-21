@@ -1,4 +1,4 @@
-import kethanPic from "../Assets/kethan-kumar-pic.png";
+import kethanPic from "../Assets/kethan-kumar-pic.jpg";
 
 export const profile = {
   name: "Kethan Kumar",
