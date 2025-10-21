@@ -17,6 +17,6 @@ export const profile = {
     email: "kethankumargontla@gmail.com",
     linkedin: "https://www.linkedin.com/in/kethan-kumar-gontla/",
     github: "https://github.com/kethankumar667",
-    x: "https://x.com/kethan_codes",
+    tel: "+91-7013604560",
   },
 };

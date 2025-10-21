@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import { FaEnvelope, FaLinkedin, FaGithub } from "react-icons/fa";
+import { FaEnvelope, FaLinkedin, FaGithub, FaPhoneAlt } from "react-icons/fa";
 import { ToastContainer, toast } from "react-toastify";
 import "react-toastify/dist/ReactToastify.css";
 
@@ -124,6 +124,17 @@ const Contact = () => {
                   className="hover:text-primary transition-colors"
                 >
                   github.com/kethankumar667
+                </a>
+              </div>
+              <div className="flex items-center gap-3">
+                <FaPhoneAlt className="text-primary" />
+                <a
+                  href="/"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="hover:text-primary transition-colors"
+                >
+                  +91-7013604560
                 </a>
               </div>
             </div>

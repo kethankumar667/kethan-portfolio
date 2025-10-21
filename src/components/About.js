@@ -1,6 +1,5 @@
 import React from "react";
-import { FaLinkedin, FaGithub, FaEnvelope } from "react-icons/fa";
-import { BsTwitterX } from "react-icons/bs";
+import { FaLinkedin, FaGithub, FaEnvelope, FaPhoneAlt } from "react-icons/fa";
 
 import { ReactTyped } from "react-typed";
 import kethanPic from "../Assets/kethan-kumar-pic.png";
@@ -196,7 +195,7 @@ const About = () => {
               <FaGithub />
             </motion.a>
             <motion.a
-              href={profile.social.x}
+              href={profile.social.tel}
               target="_blank"
               rel="noopener noreferrer"
               aria-label="x"
@@ -204,7 +203,7 @@ const About = () => {
               whileHover={{ scale: 1.1, rotate: -5 }}
               whileTap={{ scale: 0.95 }}
             >
-              <BsTwitterX />
+              <FaPhoneAlt />
             </motion.a>
           </motion.div>
         </motion.div>
