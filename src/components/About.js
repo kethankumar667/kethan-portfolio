@@ -2,7 +2,7 @@ import React from "react";
 import { FaLinkedin, FaGithub, FaEnvelope, FaPhoneAlt } from "react-icons/fa";
 
 import { ReactTyped } from "react-typed";
-import kethanPic from "../Assets/kethan-kumar-pic.png";
+import kethanPic from "../Assets/kethan-kumar-pic.jpg";
 import { profile } from "../data/profile";
 import { motion } from "framer-motion";
 // Tailwind migration: inline classes
