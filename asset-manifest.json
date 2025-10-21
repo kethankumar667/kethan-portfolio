@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/static/css/main.4f03dc28.css",
+    "main.js": "/static/js/main.79b0fb63.js",
+    "static/js/557.a7ce4514.chunk.js": "/static/js/557.a7ce4514.chunk.js",
+    "static/js/102.4dfc3388.chunk.js": "/static/js/102.4dfc3388.chunk.js",
+    "static/js/199.d5ef7f3b.chunk.js": "/static/js/199.d5ef7f3b.chunk.js",
+    "static/js/3.e7d32759.chunk.js": "/static/js/3.e7d32759.chunk.js",
+    "static/js/954.e55b214e.chunk.js": "/static/js/954.e55b214e.chunk.js",
+    "static/css/544.d6e4c020.chunk.css": "/static/css/544.d6e4c020.chunk.css",
+    "static/js/544.92a3812b.chunk.js": "/static/js/544.92a3812b.chunk.js",
+    "static/js/270.7695ab94.chunk.js": "/static/js/270.7695ab94.chunk.js",
+    "static/js/784.abbc79f8.chunk.js": "/static/js/784.abbc79f8.chunk.js",
+    "static/media/kethan-kumar-pic.png": "/static/media/kethan-kumar-pic.3fdd06a0d558f91e3bbc.png",
+    "index.html": "/index.html",
+    "main.4f03dc28.css.map": "/static/css/main.4f03dc28.css.map",
+    "main.79b0fb63.js.map": "/static/js/main.79b0fb63.js.map",
+    "557.a7ce4514.chunk.js.map": "/static/js/557.a7ce4514.chunk.js.map",
+    "102.4dfc3388.chunk.js.map": "/static/js/102.4dfc3388.chunk.js.map",
+    "199.d5ef7f3b.chunk.js.map": "/static/js/199.d5ef7f3b.chunk.js.map",
+    "3.e7d32759.chunk.js.map": "/static/js/3.e7d32759.chunk.js.map",
+    "954.e55b214e.chunk.js.map": "/static/js/954.e55b214e.chunk.js.map",
+    "544.d6e4c020.chunk.css.map": "/static/css/544.d6e4c020.chunk.css.map",
+    "544.92a3812b.chunk.js.map": "/static/js/544.92a3812b.chunk.js.map",
+    "270.7695ab94.chunk.js.map": "/static/js/270.7695ab94.chunk.js.map",
+    "784.abbc79f8.chunk.js.map": "/static/js/784.abbc79f8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4f03dc28.css",
+    "static/js/main.79b0fb63.js"
+  ]
+}
