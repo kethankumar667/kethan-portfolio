@@ -207,7 +207,7 @@ const Header = () => {
               </li>
               <li>
                 <a
-                  href="https://drive.google.com/file/d/1fldTztMS-MU08XEVPBXLoe1RSHx5kZ7T/view?usp=sharing"
+                  href="https://drive.google.com/file/d/1nISb4D0J9QMZjKQMuLaDhJToNDRzZ-at/view?usp=sharing"
                   download="Resume.pdf"
                   className="inline-flex h-9 items-center rounded-md border border-border px-3 text-sm hover:bg-accent hover:text-accent-foreground transition-colors"
                 >
